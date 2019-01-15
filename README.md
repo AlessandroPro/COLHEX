@@ -4,6 +4,8 @@ COLHEX is a real-time, fast-paced 2D iOS party game developed using Swift and Sp
 The name COLHEX represents a combination of the words "colour" and "hexagon," and is also a play on words since it also sounds like the word "collects," which describes the goal of the players -> to collect and claim as many hexagons for themselves. <br>
 All 2D art assets were created by me in Adobe Illustrator.
 
+![img_0880](https://user-images.githubusercontent.com/15040875/50919198-2556f980-1410-11e9-90b0-44f0b8db523d.png)
+
 Available for FREE on the Apple App Store since December 2017: <br>
 https://itunes.apple.com/ca/app/colhex/id1320714662?mt=8 
 
@@ -35,8 +37,6 @@ It only takes a few taps for other players to take over your claimed hexagons! A
 __________________
 
 Screenshots (iPhone):
-
-![img_0880](https://user-images.githubusercontent.com/15040875/50919198-2556f980-1410-11e9-90b0-44f0b8db523d.png)
 
 ![img_0881](https://user-images.githubusercontent.com/15040875/50919199-25ef9000-1410-11e9-9f11-d06410ad016a.png)
 
